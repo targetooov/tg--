@@ -107,7 +107,7 @@ tg-bot-panel/
 ### 1. Клонирование
 
 ```bash
-git clone https://github.com/yourusername/tg-bot-panel.git
+git clone https://github.com/targetooov/tg-bot-panel.git
 cd tg-bot-panel
 ```
 
